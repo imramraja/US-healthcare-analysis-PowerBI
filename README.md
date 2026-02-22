@@ -5,11 +5,11 @@
 [Project Overview](#project-overview) •
 [Key Features](#key-features) •
 [Highlights](#highlights) •
-[Insights](#insights)
-
+[Insights](#insights) •
 [ER Diagram](#er-diagram) •
 [Live Dashboard](#live-dashboard) •
 [Conclusion](#conclusion)
+
 ---
 
 ## Project Overview
